@@ -1,0 +1,15 @@
+/* .hover-animation {
+} */
+.hover-animation:hover {
+    transform: scale(1.01);
+    transition: scale 3s ease-in-out;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+}
+/* .fa-regular{
+     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
+} */
+.fa-regular:horizontal{
+    transform: scale(1.01);
+    transition: scale 3s ease-in-out;
+}
+    
